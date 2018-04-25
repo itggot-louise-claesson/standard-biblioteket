@@ -1,6 +1,6 @@
-# Public: An Integer as input and gives the next number as output.
+# Public: An Integer as input and gives the following number as output.
 #
-# number - the Integer increase with one.
+# number - the Integer that increases with one.
 #
 # Examples
 #
@@ -10,8 +10,6 @@
 # Returns the increased number.
 def next_number(number)
 
-    output = number + 1
-
-    return output
+    return number + 1
 
 end

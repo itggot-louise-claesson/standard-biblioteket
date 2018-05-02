@@ -4,7 +4,7 @@
 #
 # Examples
 #
-#   next_number(5)
+#   square(5)
 #   # => 25
 #
 # Returns the squared number.

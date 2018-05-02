@@ -4,7 +4,7 @@
 #
 # Examples
 #
-#   next_number(5)
+#   previous_number(5)
 #   # => 6
 #
 # Returns the decreased number.

@@ -4,7 +4,7 @@
 #
 # Examples
 #
-#   next_number(2)
+#   cube(2)
 #   # => 8
 #
 # Returns the squared number.

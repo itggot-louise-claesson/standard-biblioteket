@@ -1,6 +1,6 @@
 # Public: takes an Integer as input and determines if the Integer is even.
 #
-# number - the Integer that is even or not.
+# num - the Integer that is even or not.
 #
 # Examples
 #

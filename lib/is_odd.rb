@@ -1,6 +1,6 @@
 # Public: takes an Integer as input and determines if the Integer is odd.
 #
-# number - the Integer that is odd or not.
+# num - the Integer that is odd or not.
 #
 # Examples
 #

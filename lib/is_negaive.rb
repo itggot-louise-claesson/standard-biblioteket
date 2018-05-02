@@ -1,6 +1,6 @@
 # Public: takes an Integer as input and determines if the Integer is negative.
 #
-# number - the Integer that is negative or not.
+# num - the Integer that is negative or not.
 #
 # Examples
 #

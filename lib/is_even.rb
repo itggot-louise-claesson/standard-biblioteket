@@ -10,10 +10,10 @@
 # Returns a true or false output.
 def is_even(num)
 
-    if num % 2 != 0
-        return false
+    if num % 2 == 0
+        return true
     end
 
-    return true
+    return false
 
 end

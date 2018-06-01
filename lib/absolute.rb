@@ -1,6 +1,6 @@
 # Public: takes an Integer as input and gives the absolute value as output.
 #
-# number - the Integer that's negative or not.
+# num - the Integer that's negative or not.
 #
 # Examples
 #
